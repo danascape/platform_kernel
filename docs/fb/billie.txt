@@ -1,0 +1,2 @@
+billie:/ # strings /dev/block/bootdevice/by-name/xbl_a | grep "Display Reserved"
+0xA0000000, 0x02400000, "Display Reserved",  AddMem, MEM_RES, SYS_MEM_CAP, Reserv, WRITE_THROUGH_XN
